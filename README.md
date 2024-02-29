@@ -2,11 +2,11 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/england-dsa)
 
-Hello, world! I'm [Your Name], a passionate [your field/interests]. Welcome to my GitHub page where I share my projects, experiments, and learnings.
+Hello, world! I'm John, a passionate Data Scientist. Welcome to my GitHub page where I share my projects, experiments, and learnings.
 
 ## About Me
 
-- 👨‍💻 I’m currently working on [mention what you're currently working on].
+- 👨‍💻 I’m currently a student at [Buffalo State Unviersity](https://suny.buffalostate.edu/).
 - 🌱 I’m currently learning [mention what you're currently learning].
 - 💬 Ask me about [mention topics you're knowledgeable about].
 - 📫 How to reach me: [your-email@example.com]
