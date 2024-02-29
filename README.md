@@ -1,7 +1,6 @@
 # Welcome to [Your Username]'s GitHub Page! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter?style=social)](https://twitter.com/your-twitter)
+[![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/england-dsa)
 
 Hello, world! I'm [Your Name], a passionate [your field/interests]. Welcome to my GitHub page where I share my projects, experiments, and learnings.
 
