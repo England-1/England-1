@@ -1,12 +1,10 @@
 # Welcome to england-dsa's GitHub Page! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/england-dsa)
-
-Hello, world! I'm John, a passionate Data Scientist. Welcome to my GitHub page where I share my projects, experiments, and learnings.
+I'm John, a passionate Data Scientist. Welcome to my GitHub page where I share my projects, experiments, and learnings.
 
 ## About Me
 
-- 👨‍💻 I’m currently a student at [Buffalo State Unviersity](https://suny.buffalostate.edu/).
+- 👨‍💻 I’m currently a graduate student at [Buffalo State Unviersity](https://suny.buffalostate.edu/).
 - 🌱 I’m currently learning Machine Learning in Python, and Data Governance & Strategy.
 - 💬 Ask me about the weather.
 - 📫 How to reach me: england.dsa@gmail.com
