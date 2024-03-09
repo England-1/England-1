@@ -18,9 +18,4 @@ I'm John, a passionate Data Scientist. Welcome to my GitHub page where I share m
 
 I'm open to collaborations and contributions! If you find any bugs in my projects or have any suggestions for improvement, feel free to open an issue or submit a pull request.
 
-## Let's Connect
-
-- GitHub: [Your GitHub Profile](https://github.com/england-dsa)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/england-dsa/)
-
 Thanks for stopping by! 😊
