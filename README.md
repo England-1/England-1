@@ -12,7 +12,7 @@ I'm John, a passionate Data Scientist. Welcome to my GitHub page where I share m
 ## Technologies I Work With
 
 - Programming Languages: Python, R, SQL, Shell.
-- Frameworks and Libraries: NumPy, Pandas, Xaray, Matplotlib, Scikit-learn, TensorFlow.
+- Frameworks and Libraries: NumPy, Pandas, Xarray, Matplotlib, Scikit-learn, TensorFlow.
 
 ## Contributions
 
