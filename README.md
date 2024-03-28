@@ -4,7 +4,7 @@ I'm John, a passionate Data Scientist. Welcome to my GitHub page where I share m
 
 ## About Me
 
-- 👨‍💻 I’m currently a graduate student at [Buffalo State Unviersity](https://suny.buffalostate.edu/).
+- 👨‍💻 I’m currently a graduate student at [Buffalo State University](https://suny.buffalostate.edu/).
 - 🌱 I’m currently learning Machine Learning in Python, and Data Governance & Strategy.
 - 💬 Ask me about the weather.
 - 📫 How to reach me: england.dsa@gmail.com
