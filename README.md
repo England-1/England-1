@@ -4,18 +4,18 @@ I'm John, a passionate Data Scientist. Welcome to my GitHub page where I share m
 
 ## About Me
 
-- 👨‍💻 I’m currently a graduate student at [Buffalo State University](https://suny.buffalostate.edu/).
-- 🌱 I’m currently learning Machine Learning in Python, and Data Governance & Strategy.
+- 👨‍💻 I recently graduated from [Buffalo State University](https://suny.buffalostate.edu/).
+- 🌱 I’m working in the banking industry as a data analyst / data scientist.
 - 💬 Ask me about the weather.
 - 📫 How to reach me: england.dsa@gmail.com
 
 ## Technologies I Work With
 
-#### Languages & Version Control: Python, SQL, R, Bash, GitHub, Git, LATEX
-#### Data Analysis & Visualization: Power Bi, Tableau, Streamlit, Matplotlib, Seaborn, Plotly
-#### Machine Learning & AI: Scikit-Learn, TensorFlow, PyTorch, NLP, LLMs, RAG, OpenAI API
-#### Productivity & Planning: Jira, Slack, MS Teams, MS Word, MS Excel, MS PowerPoint, MS Planner
-#### Data Infrastructure: Alteryx, Solidatus, Informatica Axon
+Languages & Version Control: Python, SQL, R, Bash, GitHub, Git, LATEX
+Data Analysis & Visualization: Power Bi, Tableau, Streamlit, Matplotlib, Seaborn, Plotly
+Machine Learning & AI: Scikit-Learn, TensorFlow, PyTorch, NLP, LLMs, RAG, OpenAI API
+Productivity & Planning: Jira, Slack, MS Teams, MS Word, MS Excel, MS PowerPoint, MS Planner
+Data Infrastructure: Alteryx, Solidatus, Informatica Axon
 
 ## Contributions
 
