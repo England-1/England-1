@@ -11,8 +11,11 @@ I'm John, a passionate Data Scientist. Welcome to my GitHub page where I share m
 
 ## Technologies I Work With
 
-- Programming Languages: Python, R, SQL, Shell.
-- Frameworks and Libraries: NumPy, Pandas, Xarray, Matplotlib, Scikit-learn, TensorFlow.
+#### Languages & Version Control: Python, SQL, R, Bash, GitHub, Git, LATEX
+#### Data Analysis & Visualization: Power Bi, Tableau, Streamlit, Matplotlib, Seaborn, Plotly
+#### Machine Learning & AI: Scikit-Learn, TensorFlow, PyTorch, NLP, LLMs, RAG, OpenAI API
+#### Productivity & Planning: Jira, Slack, MS Teams, MS Word, MS Excel, MS PowerPoint, MS Planner
+#### Data Infrastructure: Alteryx, Solidatus, Informatica Axon
 
 ## Contributions
 
